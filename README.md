@@ -15,7 +15,7 @@ An Excalidraw clone with Nextjs and canvasAPI. Rough.js is used for the sketchy,
 
 ## 🦄 Features
 
-Here's what you can do with NinjaSketch:
+Here's what you can do with SketchBook:
 
 - **Choose a Tool**: You have pencils, lines, rectangles, and text tools. Pick one and start creating.
 
