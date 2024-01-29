@@ -1,6 +1,6 @@
 # 🥷🏽 SketchBook
 
-An Excalidraw clone with Nextjs and canvasAPI. Rough.js is used for the sketchy, hand-drawn style. I built the side project for learning purposes. The app is. I mainly focused on the functionalities since I already have plenty of projects that are responsive.
+An Excalidraw clone with Nextjs and canvasAPI. Rough.js is used for the sketchy, hand-drawn style. I built the side project for learning purposes. I mainly focused on the functionalities since I already have plenty of projects that are responsive.
 
 ## 📦 Technologies
 
